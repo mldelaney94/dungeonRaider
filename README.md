@@ -1,5 +1,7 @@
 # dungeon-raider
 
+The launcher is in the \..\dungeon-raider-master\src\controller
+
 ## Screens
 ### Main Menu
 #### Relevant Keys: W (up), S (down), Enter (select)
