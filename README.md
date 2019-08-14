@@ -42,10 +42,10 @@ effects (such as invincibility/flying) are located to the right of the inventory
 #### Relevant Keys: Up, Down, Left, Right, Space (place entity), Esc, Del (delete entity)
 
 ## Possible Extensions
-- Key Rebinding
+- Key Rebinding - done
 - Different Level Themes
 - New Enemies
-- Restricted Vision and Torch
+- Restricted Vision and Torch - done
 - Replays
 - Customisable Player
 - Scores
