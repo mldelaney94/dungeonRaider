@@ -5,7 +5,7 @@ The launcher is in the \..\dungeon-raider-master\src\controller
 ## Screens
 ### Main Menu
 
-![Main Menu](https://github.com/mldelaney94/dungeonRaider/tree/master/images/mainMenu.png "Main Menu")
+![Main Menu](images/mainMenu.png "Main Menu")
 ![Level 1](https://github.com/mldelaney94/dungeonRaider/tree/master/images/basicLevel.png "Level 1")
 ![Rebind Keys](https://github.com/mldelaney94/dungeonRaider/tree/master/images/rebindkeys.png "Rebind Keys")
 
