@@ -8,6 +8,7 @@ The launcher is in the \..\dungeon-raider-master\src\controller
 ![Main Menu](images/mainMenu.png "Main Menu")
 ![Level 1](images/basicLevel.png "Level 1")
 ![Rebind Keys](images/rebindkeys.png "Rebind Keys")
+![Level Editor](images/levelEditor.jpg "Level Editor")
 
 #### Relevant Keys: W (up), S (down), Enter (select)
 - Game Title
